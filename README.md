@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sadewa1945/Sadewa1945/main/assets/pp.jpg" width="200" style="border-radius: 50%;" />
+</p>
+
 # 💫 About Me:
 I am a Backend Developer and aspiring Cyber Security enthusiast who is passionate about building secure, efficient, and scalable systems. I enjoy learning about APIs, databases, server-side development, and security practices to create reliable digital solutions.
 
