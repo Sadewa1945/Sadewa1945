@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sadewa1945/Sadewa1945/main/assets/pp.jpg" width="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Sadewa1945/Sadewa1945/main/assets/pp.jpg" width="100%" height="100%" />
 </p>
 
 # 💫 About Me:
